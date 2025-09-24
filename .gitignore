@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors
+.vscode/
+.idea/
