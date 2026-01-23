@@ -1,5 +1,5 @@
 # pyCFWT
-Combined FFT-wWavelet method for Convectively Coupled Equatorial Waves (CCEWs)
+Combined FFT-Wavelet method for Convectively Coupled Equatorial Waves (CCEWs)
 Created by: Chang Xu
 chang.xu8@unsw.edu.au
 2025
