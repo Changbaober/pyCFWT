@@ -6,6 +6,8 @@ chang.xu8@unsw.edu.au
 
 References:
 
+Xu, C., S. Sherwood, M. Jucker et al. (2026). The evaluation of convectively coupled waves in limited-length datasets. Climate Dynamics. 64, 145. https://doi.org/10.1007/s00382-026-08106-2. 
+
 Kikuchi, K., and B. Wang (2010). Spatiotemporal Wavelet Transform and the 
 Multiscale Behavior of the Madden–Julian Oscillation. 
 Journal of Climate. 23, 3814–3834. 
